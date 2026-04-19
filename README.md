@@ -1,6 +1,6 @@
 # wordle-unlimited
 A reimplementation of the word game "Wordle".
 
-Original game website: https://www.powerlanguage.co.uk/wordle/
+Original game website: https://www.infinitewordles.org/
 
-My version: https://bosorioo.github.io/wordle-unlimited/
+My version: https://www.infinitewordles.org/
